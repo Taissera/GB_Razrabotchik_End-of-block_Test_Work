@@ -56,7 +56,14 @@ _*Примеры*_
 
     - Описание алгоритма решения
 
-* ### solution
+    **commit**: 533624b14dc4f08d317e65be215fbc78c0cd1e97
 
-* ###  
+* ### solution
+    - update of README.md
+
+    - code & dotnet run
+
+    **commit**: 
+
+* ###  Final commit
 
