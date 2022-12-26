@@ -63,7 +63,7 @@ _*Примеры*_
 
     - code & dotnet run
 
-    **commit**: 
+    **commit**: 8b8b2cea45586ed6b302906e0191245ab691268e
 
 * ###  Final commit
 
